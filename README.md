@@ -2,7 +2,6 @@
 
 The Real-Time Chat App is a full-stack messaging platform built using the MERN Stack with Socket.io, enabling instant communication, authentication, and online presence tracking — all wrapped in a modern, responsive UI powered by TailwindCSS and DaisyUI.
 
-⸻
 
 🧭 Vision
 
